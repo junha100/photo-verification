@@ -1,0 +1,8 @@
+{
+  "version": 1,
+  "head_path": ".local/dda-head-adaptation/candidate-head.pt",
+  "head_sha256": "204c7d97ec6c07e38674c5543a48afda03f757766c5b153f57e78ef50d443721",
+  "base_checkpoint_sha256": "b27a31d39374803ddeff02bfabb2be76e190b04300490cddfafb24f683f37e3e",
+  "manifest_sha256": "e7f9ad41855349c8176c5c492c7312da7deb8b96202279e3077959923081050c",
+  "preprocessing": "RGB CenterCrop336 CLIP normalization"
+}

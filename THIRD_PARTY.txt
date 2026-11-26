@@ -1,0 +1,7 @@
+DDA source: https://github.com/roy-ch/Dual-Data-Alignment
+DINOv2 source: https://github.com/facebookresearch/dinov2
+Pinned versions and checkpoint provenance: .local/dda-detector/source.json
+Upstream license texts are included with their source folders.
+OpenCLIP: https://github.com/mlfoundations/open_clip
+Original image model is retained as a comparison branch.
+Model checksums and required locations: model-manifest.json

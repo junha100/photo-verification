@@ -1,0 +1,27 @@
+**/node_modules/
+**/dist/
+**/__pycache__/
+**/*.pyc
+**/*.log
+**/*.db
+**/storage/
+.venv/
+.env
+**/.env
+.env.*
+!.env.example
+!**/.env.example
+*.zip
+*.pt
+*.pth
+*.bin
+.local/*
+!.local/dda-detector/
+.local/dda-detector/*
+!.local/dda-detector/upstream/
+!.local/dda-detector/dinov2/
+!.local/dda-detector/source.json
+!.local/dda-detector/active-head.json
+
+# 사용자가 승인한 비공개 팀 저장소의 Groq 설정
+!/.env

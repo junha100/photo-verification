@@ -1,0 +1,32 @@
+[
+  {
+    "path": ".local/dda-detector/DDA_ckpt.pth",
+    "bytes": 1255621296,
+    "sha256": "b27a31d39374803ddeff02bfabb2be76e190b04300490cddfafb24f683f37e3e",
+    "asset": "dda-pretrained.pth"
+  },
+  {
+    "path": ".local/dda-head-adaptation/candidate-head.pt",
+    "bytes": 6181,
+    "sha256": "204c7d97ec6c07e38674c5543a48afda03f757766c5b153f57e78ef50d443721",
+    "asset": "dda-adapted-head.pt"
+  },
+  {
+    "path": "AI/Image/models/image_model_bundle/versionv12/weights/best.pt",
+    "bytes": 151627065,
+    "sha256": "1a27449c1010ea800822b26f458bdf6758353045d24661efe4273c6bad565d42",
+    "asset": "image-comparison.pt"
+  },
+  {
+    "path": "AI/Image/models/image_model_bundle/versionv12/open_clip/timm_vit_base_patch32_clip_224.openai/open_clip_pytorch_model.bin",
+    "bytes": 605225782,
+    "sha256": "9ecdaef325b20e7283dc6a32f92aa638d100899e4f084c2462d3832eeea0b26e",
+    "asset": "clip-vit-b32.bin"
+  },
+  {
+    "path": "AI/Multimodal/models/open_clip/timm_vit_large_patch14_clip_224.openai/open_clip_pytorch_model.bin",
+    "bytes": 1710639510,
+    "sha256": "c4e2d8e8f1a5bc97c76b9c9385d2fc2a1acd38846db5468f579fda12306a218b",
+    "asset": "clip-vit-l14.bin"
+  }
+]
